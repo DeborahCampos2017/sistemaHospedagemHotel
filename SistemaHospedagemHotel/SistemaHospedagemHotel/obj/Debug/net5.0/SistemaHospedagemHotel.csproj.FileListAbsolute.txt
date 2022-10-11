@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.exe
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.deps.json
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.runtimeconfig.json
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.dll
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\ref\SistemaHospedagemHotel.dll
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\bin\Debug\net5.0\SistemaHospedagemHotel.pdb
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.dll
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\ref\SistemaHospedagemHotel.dll
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.pdb
+C:\Users\ASUS\Desktop\sistemaHospedagemHotel\SistemaHospedagemHotel\SistemaHospedagemHotel\obj\Debug\net5.0\SistemaHospedagemHotel.genruntimeconfig.cache
